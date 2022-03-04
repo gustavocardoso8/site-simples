@@ -49,6 +49,7 @@ li {
     border: none;
     color: var(--btnFontColor);
     background-color: var(--btnBg);
+    cursor: pointer;
 }
 
 .btn:focus { /* Subclasse de "btn" */
