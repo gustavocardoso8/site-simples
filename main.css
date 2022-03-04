@@ -1,5 +1,6 @@
 body {
     font-family: monospace;
+    background: var(--bg);
 }
 
 ul {
@@ -37,10 +38,6 @@ li {
 * {
     color: var(--fontColor);
     font-family: helvetica;
-}
-
-body {
-    background: var(--bg);
 }
 
 .btn {
